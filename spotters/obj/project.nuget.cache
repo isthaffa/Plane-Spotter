@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gm4vZZPF2s1vPvpjSnl2RRkMipb8FycWcv2eXc1clAt/6C9ZKJYl0yDlza1q0OkE1avJibdXnNRKbzlLVynb6g==",
+  "dgSpecHash": "X1IJYjb5Y3s5fyfDlqRBSe1w1RjkH3i8M9SDXTuy7YAVo724OyZm8gTvGMGYZbeV36QVNO/VBCIGlFZPN1YVWQ==",
   "success": true,
-  "projectFilePath": "D:\\task-management\\spotters\\spotters.csproj",
+  "projectFilePath": "D:\\task-management\\App\\spotters\\spotters.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahsan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ahsan\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.1.0\\microsoft.aspnetcore.authentication.abstractions.2.1.0.nupkg.sha512",

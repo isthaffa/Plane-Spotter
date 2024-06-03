@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\task-management\\spotters\\spotters.csproj": {}
+    "D:\\task-management\\App\\spotters\\spotters.csproj": {}
   },
   "projects": {
-    "D:\\task-management\\spotters\\spotters.csproj": {
+    "D:\\task-management\\App\\spotters\\spotters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\task-management\\spotters\\spotters.csproj",
+        "projectUniqueName": "D:\\task-management\\App\\spotters\\spotters.csproj",
         "projectName": "spotters",
-        "projectPath": "D:\\task-management\\spotters\\spotters.csproj",
+        "projectPath": "D:\\task-management\\App\\spotters\\spotters.csproj",
         "packagesPath": "C:\\Users\\ahsan\\.nuget\\packages\\",
-        "outputPath": "D:\\task-management\\spotters\\obj\\",
+        "outputPath": "D:\\task-management\\App\\spotters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahsan\\AppData\\Roaming\\NuGet\\NuGet.Config",
