@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spotters", "spotters.csproj", "{ABD3CFF3-D9B1-4159-9D19-4BB5C5ECD907}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABD3CFF3-D9B1-4159-9D19-4BB5C5ECD907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD3CFF3-D9B1-4159-9D19-4BB5C5ECD907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD3CFF3-D9B1-4159-9D19-4BB5C5ECD907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD3CFF3-D9B1-4159-9D19-4BB5C5ECD907}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0DEF805-6DD3-487C-92F2-7A7730B956A5}
+	EndGlobalSection
+EndGlobal
